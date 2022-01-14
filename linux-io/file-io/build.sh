@@ -1,2 +1,2 @@
-gcc file-io.c -o file-io
-chmod +x file-io
+gcc file-create.c -o file-create
+chmod +x file-create
